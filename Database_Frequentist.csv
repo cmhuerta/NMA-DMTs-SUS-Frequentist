@@ -1,9 +1,9 @@
 study;treatment;event-free;randomized
 AFFIRM;Natalizumabe;454;627
 AFFIRM;Placebo;146;315
-BEYOND;Acetato de glatirâmer;264;448
+BEYOND;Acetato de glatiramer;264;448
 BEYOND;IFN-1b SC;520;897
-Bornstein;Acetato de glatirâmer;14;25
+Bornstein;Acetato de glatiramer;14;25
 Bornstein;Placebo;6;23
 BRAVO;IFN-1a IM;308;447
 BRAVO;Placebo;276;450
@@ -11,10 +11,10 @@ CARE-MS I;Alentuzumabe;294;376
 CARE-MS I;IFN-1a SC 44 mcg;112;187
 CARE-MS II;Alentuzumabe;279;426
 CARE-MS II;IFN-1a SC 44 mcg;98;202
-CONFIRM;Acetato de glatirâmer;238;350
+CONFIRM;Acetato de glatiramer;238;350
 CONFIRM;Fumarato de dimetila;255;359
 CONFIRM;Placebo;214;363
-Copolymer 1 MS trial;Acetato de glatirâmer;42;125
+Copolymer 1 MS trial;Acetato de glatiramer;42;125
 Copolymer 1 MS trial;Placebo;34;126
 DEFINE;Fumarato de dimetila;299;410
 DEFINE;Placebo;220;408
@@ -34,7 +34,7 @@ MSCRG;Placebo;23;143
 PRISMS;IFN-1a SC 22 mcg;51;189
 PRISMS;IFN-1a SC 44 mcg;59;184
 PRISMS;Placebo;30;187
-REGARD;Acetato de glatirâmer;234;378
+REGARD;Acetato de glatiramer;234;378
 REGARD;IFN-1a SC 44 mcg;239;386
 TEMSO;Placebo;179;363
 TEMSO;Teriflunomida 14mg;217;359
