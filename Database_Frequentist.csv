@@ -1,0 +1,41 @@
+study;treatment;event-free;randomized
+AFFIRM;Natalizumabe;454;627
+AFFIRM;Placebo;146;315
+BEYOND;Acetato de glatirâmer;264;448
+BEYOND;IFN-1b SC;520;897
+Bornstein;Acetato de glatirâmer;14;25
+Bornstein;Placebo;6;23
+BRAVO;IFN-1a IM;308;447
+BRAVO;Placebo;276;450
+CARE-MS I;Alentuzumabe;294;376
+CARE-MS I;IFN-1a SC 44 mcg;112;187
+CARE-MS II;Alentuzumabe;279;426
+CARE-MS II;IFN-1a SC 44 mcg;98;202
+CONFIRM;Acetato de glatirâmer;238;350
+CONFIRM;Fumarato de dimetila;255;359
+CONFIRM;Placebo;214;363
+Copolymer 1 MS trial;Acetato de glatirâmer;42;125
+Copolymer 1 MS trial;Placebo;34;126
+DEFINE;Fumarato de dimetila;299;410
+DEFINE;Placebo;220;408
+Etemadifar;IFN-1a IM;6;30
+Etemadifar;IFN-1a SC 44 mcg;17;30
+Etemadifar;IFN-1b SC;13;30
+FREEDOMS;Fingolimode;299;425
+FREEDOMS;Placebo;191;418
+FREEDOMS II;Fingolimode;256;358
+FREEDOMS II;Placebo;187;355
+IFNB MS;IFN-1b SC;36;124
+IFNB MS;Placebo;18;123
+INCOMIN;IFN-1a IM;33;92
+INCOMIN;IFN-1b SC;49;96
+MSCRG;IFN-1a IM;32;158
+MSCRG;Placebo;23;143
+PRISMS;IFN-1a SC 22 mcg;51;189
+PRISMS;IFN-1a SC 44 mcg;59;184
+PRISMS;Placebo;30;187
+REGARD;Acetato de glatirâmer;234;378
+REGARD;IFN-1a SC 44 mcg;239;386
+TEMSO;Placebo;179;363
+TEMSO;Teriflunomida 14mg;217;359
+TEMSO;Teriflunomida 7mg;211;366
